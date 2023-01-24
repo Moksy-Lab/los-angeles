@@ -564,6 +564,42 @@
     /* #pepper(c4e9fe3ac1116e6e) #css ends  */
 
 
+        /* #abigail(d0307869eee88f2c) #css starts  */
+  .aboutd0307869eee88f2c  .DescriptionHeading {
+    font-size: 50px
+}
+
+.aboutd0307869eee88f2c .DescriptionPara {
+    font-size: 20px
+}
+
+.aboutd0307869eee88f2c .DescriptionButton button {
+    font-size: 20px;
+    background-color: aqua;
+    outline: none;
+    border: none
+}
+.aboutd0307869eee88f2c .descriptionImage img{
+    height: 400px;
+    width: 500px
+}
+/* #abigail(d0307869eee88f2c) #css ends  */
+
+/* #bart(b8f24d8579ddc744) #css starts  */
+.blogb8f24d8579ddc744 .shadow {
+    -webkit-box-shadow: 0 10px 40px 0 rgba(62, 57, 107, 0.07), 0 2px 9px 0 rgba(62, 57, 107, 0.06);
+    box-shadow: 0 10px 40px 0 rgba(62, 57, 107, 0.07), 0 2px 9px 0 rgba(62, 57, 107, 0.06)
+    }
+    .blogb8f24d8579ddc744 .background{
+        background-image: url(https://source.unsplash.com/user/a_myth); 
+        background-size: cover; 
+        background-position: center center;
+         opacity: 1; 
+         min-height:300px
+    }
+    /* #bart(b8f24d8579ddc744) #css ends  */
+
+
 /* error handler */
 .edric .error-content {
     padding: 70px 0 70px;
